@@ -1,0 +1,28 @@
+{
+  "name": "web-automation-with-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashik-e-rabbani/web-automation-with-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashik-e-rabbani/web-automation-with-cypress/issues"
+  },
+  "homepage": "https://github.com/ashik-e-rabbani/web-automation-with-cypress#readme",
+  "dependencies": {
+    "cypress": "^14.4.0"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^5.0.0",
+    "mochawesome-report-generator": "^6.2.0"
+  }
+}
